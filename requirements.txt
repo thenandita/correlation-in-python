@@ -5,3 +5,9 @@ ipython
 
 # Full notebook in venv
 notebook
+
+pandas
+numpy
+scipy
+seaborn
+matplotlib
